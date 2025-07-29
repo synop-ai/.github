@@ -1,7 +1,6 @@
-<p align="center">
+<p align="center" style="background-color: white; padding: 10px; border-radius: 8px; display: inline-block;">
   <img src="assets/logo_core_400_nobg.png" alt="Synop Logo" width="200"/>
 </p>
-
 
 Synop helps fleets of all sizes transition to and manage electric vehicles with confidence. Our cloud-based platform brings together real-time vehicle data, smart charging insights, and alerting tools into a single pane of glass — helping fleet operators streamline operations, reduce costs, and meet sustainability goals.
 
