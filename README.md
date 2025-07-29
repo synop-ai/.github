@@ -4,7 +4,7 @@ Synop helps fleets of all sizes transition to and manage electric vehicles with 
 
 ## What We Do
 
-Synop connects to your vehicles via leading telematics providers like Geotab, Samsara, Zonar, and Lightning eMotors. With these integrations, we provide:
+Synop connects to your vehicles via leading telematics providers like Geotab, Samsara, and Zonar. With these integrations, we provide:
 
 - **Vehicle Management**: Monitor vehicle health, charging sessions, and trip history in one place.
 - **Smart Charging**: Match charging sessions with vehicles and visualize energy use — even when added manually.
